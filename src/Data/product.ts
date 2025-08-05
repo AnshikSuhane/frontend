@@ -1,3 +1,4 @@
+import type { Product } from "../Types/product";
 
 export const products: Product[] = [
   {
