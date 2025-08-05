@@ -1,0 +1,7 @@
+.moon {
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle at 10% 30%, #f5f3ce, #c7c4a3);
+  border-radius: 50%;
+  box-shadow: 0 0 30px #e0d9b0;
+}
